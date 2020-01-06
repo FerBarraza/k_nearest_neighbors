@@ -1,6 +1,6 @@
 Prueba de algoritmo para aprendizaje supervisado **Vecinos K Más Cercanos**. Donde los datos se entrenana con puntos de datos que corresponden a su clasificación. Como un punto se predice, toma en cuenta los puntos 'K' más cercanos para determinar su clasificación
 
-<img src = "https://ibm.box.com/shared/static/mgkn92xck0z05v7yjq8pqziukxvc2461.png">
+<img src = "KNN Diagram.png">
 
 
 ```python
